@@ -40,6 +40,17 @@ imprimir("Hello World!")
 
 ```
 
+### Agora é só rodar o script:
+
+    python3ptbr main.pybr
+
+#### A saída ficará ficará normal como o python em ingles:
+
+    Olá Mundo!
+    Hello World!
+
+----------
+
 - À medida que você ganha experiência e confiança, comece a introduzir comandos em inglês em seus scripts.
 
 - Use a documentação do Python em inglês para aprofundar seus conhecimentos e expandir sua proficiência na linguagem.

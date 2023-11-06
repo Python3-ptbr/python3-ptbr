@@ -1,0 +1,17 @@
+se 5 > 3:
+    imprimir("5 é maior que 3")
+senão:
+    imprimir("3 é maior que 5")
+
+
+imprimir("Calculadora Simples")
+imprimir("Digite dois números:")
+
+
+num1 = entrada()
+num2 = entrada()
+
+
+soma = num1 + num2
+imprimir(soma)
+

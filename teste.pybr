@@ -7,7 +7,6 @@ senão:
 
 tempo.dormir(3)
 
-
 imprimir("Calculadora Simples")
 imprimir("Digite dois números:")
 

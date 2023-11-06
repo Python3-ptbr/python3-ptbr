@@ -1,2 +1,3 @@
-# python3-ptbr
-tradutor de python
+# Python3-ptbr
+
+Python3 library, write python codes in Portuguese.

@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools>=67.4.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "python3-ptbr"
+version = "1.0-rc2"
+authors = [
+  { name="Juan Bindez", email="juanbindez780@gmail.com" },
+]
+description = "Python3 library, write python codes in Portuguese."
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT license"}
+keywords = ["cli"]
+classifiers = [
+	"Development Status :: 5 - Production/Stable",
+	"Environment :: Console",
+	"Intended Audience :: Developers",
+	"License :: OSI Approved :: MIT License",
+	"Natural Language :: English",
+	"Operating System :: OS Independent",
+	"Programming Language :: Python :: 3.7",
+	"Programming Language :: Python :: 3.8",
+	"Programming Language :: Python :: 3.9",
+	"Programming Language :: Python :: 3.10",
+	"Programming Language :: Python :: 3.11",
+	"Programming Language :: Python",
+	"Topic :: Internet",
+	"Topic :: Software Development :: Libraries :: Python Modules",
+	"Topic :: Terminals",
+	"Topic :: Utilities",
+]
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://github.com/Python3-ptbr/python3-ptbr"
+"Bug Reports" = "https://github.com/Python3-ptbr/python3-ptbr/issues"
+"Read the Docs" = "http://python3-ptbr.readthedocs.io/"
+
+[project.scripts]
+python3-ptbr = "python3-ptbr.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["python3-ptbr*"]
+
+[tool.setuptools]
+license-files = ["LICENSE"]

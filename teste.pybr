@@ -1,17 +1,20 @@
+importar tempo
+
 se 5 > 3:
     imprimir("5 é maior que 3")
 senão:
     imprimir("3 é maior que 5")
+
+tempo.dormir(3)
 
 
 imprimir("Calculadora Simples")
 imprimir("Digite dois números:")
 
 
-num1 = entrada()
-num2 = entrada()
+num1 = inteiro(entrada())
+num2 = inteiro(entrada())
 
 
 soma = num1 + num2
 imprimir(soma)
-

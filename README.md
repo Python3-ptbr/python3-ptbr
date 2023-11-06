@@ -23,6 +23,10 @@ Recursos Principais:
 
 - Baixe e instale o software em seu sistema.
 
+    pip install python3ptbr
+
+----------
+
 - Abra o software e comece a escrever seu código em português, utilizando os comandos traduzidos automaticamente.
 
 - À medida que você ganha experiência e confiança, comece a introduzir comandos em inglês em seus scripts.

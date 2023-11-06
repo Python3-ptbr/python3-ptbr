@@ -5,14 +5,14 @@
 # Python3ptbr
 
 ```python
-importar time
+importar tempo
 
 
 função principal():
     print("Olá Mundo!")
     imprimir("Hello World!")
 
-
+tempo.dormir(2)
 principal()
 
 ```

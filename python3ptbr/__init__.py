@@ -1,9 +1,9 @@
 # flake8: noqa: F401
 # noreorder
 """
-Pytubefix: a very serious Python library for downloading YouTube Videos.
+python3ptbr: a very serious Python library.
 """
-__title__ = "python3-ptbr"
+__title__ = "python3ptbr"
 __author__ = "Juan Bindez"
 __license__ = "MIT License"
 __js__ = None

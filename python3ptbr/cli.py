@@ -48,8 +48,8 @@ def executar_script_br(arquivo_br):
     except Exception as e:
         print(f"Ocorreu um erro ao executar o arquivo: {e}")
 
-# Exemplo de uso
-if __name__ == "__main__":
+
+def main():
     if len(sys.argv) != 2:
         print("Uso: python3 main.py <arquivo.br>")
         sys.exit(1)
@@ -60,3 +60,8 @@ if __name__ == "__main__":
         executar_script_br(arquivo_br)
     else:
         print(f"O arquivo '{arquivo_br}' não possui a extensão .pybr")
+
+# Exemplo de uso
+if __name__ == "__main__":
+    main()
+    

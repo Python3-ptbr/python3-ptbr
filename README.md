@@ -21,7 +21,7 @@ Recursos Principais:
 
 # Como Usar:
 
-- Baixe e instale o software em seu sistema.
+### Baixe e instale o software em seu sistema.
 
     pip install python3ptbr
 

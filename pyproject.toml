@@ -3,8 +3,8 @@ requires = ["setuptools>=67.4.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "python3-ptbr"
-version = "1.0-rc2"
+name = "python3ptbr"
+version = "1.0-rc3"
 authors = [
   { name="Juan Bindez", email="juanbindez780@gmail.com" },
 ]
@@ -39,10 +39,10 @@ dependencies = []
 "Read the Docs" = "http://python3-ptbr.readthedocs.io/"
 
 [project.scripts]
-python3-ptbr = "python3-ptbr.cli:main"
+python3ptbr = "python3ptbr.cli"
 
 [tool.setuptools.packages.find]
-include = ["python3-ptbr*"]
+include = ["python3ptbr*"]
 
 [tool.setuptools]
 license-files = ["LICENSE"]

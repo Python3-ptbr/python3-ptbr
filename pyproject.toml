@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "python3ptbr"
-version = "1.0-rc5"
+version = "1.0-rc6"
 authors = [
   { name="Juan Bindez", email="juanbindez780@gmail.com" },
 ]
@@ -39,7 +39,7 @@ dependencies = []
 "Read the Docs" = "http://python3-ptbr.readthedocs.io/"
 
 [project.scripts]
-python3ptbr = "python3ptbr.cli:main"
+python3ptbr = "python3ptbr.cli"
 
 [tool.setuptools.packages.find]
 include = ["python3ptbr*"]

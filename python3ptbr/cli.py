@@ -1,8 +1,6 @@
 import re
 import sys
 
-from python3ptbr.__main__ import *
-
 # Dicionário de palavras reservadas
 palavras_reservadas = {
     'se': 'if',

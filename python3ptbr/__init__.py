@@ -8,5 +8,3 @@ __author__ = "Juan Bindez"
 __license__ = "MIT License"
 __js__ = None
 __js_url__ = None
-
-from python3ptbr.__main__ import *

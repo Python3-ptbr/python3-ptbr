@@ -4,6 +4,10 @@
 
 # Python3ptbr
 
+![PyPI - Downloads](https://img.shields.io/pypi/dm/python3ptbr)
+![PyPI - License](https://img.shields.io/pypi/l/python3ptbr)
+![PyPI - Version](https://img.shields.io/pypi/v/python3ptbr)
+
 ```python
 importar tempo
 

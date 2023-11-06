@@ -4,6 +4,19 @@
 
 # Python3ptbr
 
+```python
+importar time
+
+
+função principal():
+    print("Olá Mundo!")
+    imprimir("Hello World!")
+
+
+principal()
+
+```
+
 Python3 library, write python codes in Portuguese.
 
 # Descrição:

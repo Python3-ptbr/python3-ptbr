@@ -25,12 +25,11 @@ Python3 library, write python codes in Portuguese.
 
 # Descrição:
 
-Este software é uma ferramenta inovadora projetada para tornar a aprendizagem da programação em Python mais acessível e amigável para iniciantes que falam português. O "Tradutor de Comandos Python para o Português" permite que os programadores iniciantes utilizem a linguagem Python em sua língua materna, facilitando o processo de aprendizado e compreensão dos conceitos fundamentais da programação.
-Recursos Principais:
+Este software é uma ferramenta inovadora projetada para tornar a aprendizagem da programação em Python mais acessível e amigável para iniciantes que falam português. O "python3ptbr" permite que os programadores iniciantes utilizem a linguagem Python em sua língua materna, facilitando o processo de aprendizado e compreensão dos conceitos fundamentais da programação.
+
+### Recursos Principais:
 
 - Tradução de Comandos: O programa traduz automaticamente os comandos Python de inglês para português, tornando o código mais compreensível para aqueles que não estão familiarizados com o inglês.
-
-- Interface Intuitiva: A interface de usuário é simples e intuitiva, tornando o processo de escrita de código em Python mais fácil e acessível para iniciantes.
 
 - Aprendizado Progressivo: O software incentiva o aprendizado progressivo, permitindo que os usuários comecem a programar em português, mas também encorajando-os a aprender o Python em inglês à medida que avançam em sua jornada de programação.
 

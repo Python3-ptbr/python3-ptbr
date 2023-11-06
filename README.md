@@ -27,7 +27,18 @@ Recursos Principais:
 
 ----------
 
-- Abra o software e comece a escrever seu código em português, utilizando os comandos traduzidos automaticamente.
+### Escreva um script com a extensão .pybr exemplo main.pybr e escreva o código em Portuguẽs ou em ingles exmplo:
+
+```python
+importar tempo
+
+time.sleep(1)
+tempo.dormir(1)
+
+print("Olá Mundo!")
+imprimir("Hello World!")
+
+```
 
 - À medida que você ganha experiência e confiança, comece a introduzir comandos em inglês em seus scripts.
 

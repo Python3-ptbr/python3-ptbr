@@ -1,5 +1,6 @@
 import re
 import sys
+import time
 
 from python3ptbr.__main__ import Help
 
@@ -28,14 +29,13 @@ palavras_reservadas = {
     'dormir': 'sleep'
 }
 
-# Função para traduzir código .br para código Python
+
 def traduzir_codigo_br_para_python(codigo_br):
     for palavra_br, palavra_python in palavras_reservadas.items():
         codigo_br = re.sub(rf'\b{palavra_br}\b', palavra_python, codigo_br)
 
     return codigo_br
 
-# Função para executar um script .br
 def executar_script_br(arquivo_br):
     try:
         with open(arquivo_br, 'r') as arquivo:
@@ -60,7 +60,7 @@ def main():
     else:
         print(f"O arquivo '{arquivo_br}' não possui a extensão .pybr")
 
-# Exemplo de uso
+
 if __name__ == "__main__":
     main()
     

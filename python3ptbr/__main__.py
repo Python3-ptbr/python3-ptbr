@@ -1,3 +1,8 @@
+import re
+import sys
+import time
+import random
+
 import python3ptbr
 
 class Help:

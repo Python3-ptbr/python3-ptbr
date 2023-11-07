@@ -1,6 +1,7 @@
 import re
 import sys
 import time
+import random
 
 from python3ptbr.__main__ import Help
 
@@ -13,8 +14,8 @@ palavras_reservadas = {
     'para': 'for',
     'em': 'in',
     'ou': 'or',
-    'verdadeiro': 'True',
-    'falso': 'False',
+    'Verdadeiro': 'True',
+    'Falso': 'False',
     'inteiro': 'int',
     'flutuante': 'float',
     'cadeia': 'str',
@@ -23,10 +24,12 @@ palavras_reservadas = {
     'classe': 'class',
     'importar': 'import',
     'de': 'from',
-    'nada': 'None',
+    'Nada': 'None',
     'entrada': 'input',
     'tempo': 'time',
-    'dormir': 'sleep'
+    'dormir': 'sleep',
+    'sistema': 'system',
+    'aleatório': 'random',
 }
 
 

@@ -51,7 +51,7 @@ def executar_script_br(arquivo_br):
 
 def main():
     if len(sys.argv) != 2:
-        print("Uso: python3 main.py <arquivo.br>")
+        print("Uso: python3ptbr <arquivo.br>")
         sys.exit(1)
 
     arquivo_br = sys.argv[1]

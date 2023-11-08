@@ -8,6 +8,8 @@
 ![PyPI - License](https://img.shields.io/pypi/l/python3ptbr)
 ![PyPI - Version](https://img.shields.io/pypi/v/python3ptbr)
 
+    pip install python3ptbr
+
 ```python
 importar tempo
 

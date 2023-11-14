@@ -30,6 +30,9 @@ palavras_reservadas = {
     'dormir': 'sleep',
     'sistema': 'system',
     'aleatório': 'random',
+    '__nome__': '__name__',
+    '__principal__': '__main__',
+    'simesmo': 'self',
 }
 
 
